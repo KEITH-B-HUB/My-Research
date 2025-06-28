@@ -5,4 +5,4 @@ title: "My Research Infographics"
 
 ## Explore Research
 
-- [Infographic 1](/paper1/)
+- [Infographic 1](/images/paper1/)
