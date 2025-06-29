@@ -4,7 +4,7 @@ title: "My Research Infographics"
 ---
 
 ## Explore Research
-### Click on a page
+### _Click on a page_
 
 - [Infographic 1]({{ site.baseurl }}/paper1/)
 - [Infographic 2]({{ site.baseurl }}/paper2/)
